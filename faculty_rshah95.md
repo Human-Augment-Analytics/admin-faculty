@@ -1,4 +1,4 @@
-# Faculty Onboarding + Faculty <-> Student Relations
+# Faculty Onboarding + Faculty <-> Student/Advisor Commmunications and Relations
 Rohil Shah
 ## Problem
 Onboarding for faculty for HAAG research is currently captured in a lengthy document on a GT sites page. The document is likely out of date in some aspects and also too verbose for sharing with prospective faculty. Similarly there is no formal documentation capturing faculty to student relations and interactions. This leaves onboarding unclear and potential disengagement.
