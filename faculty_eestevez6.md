@@ -105,6 +105,8 @@ Record submission in a simple tracker:
 
 ## Weekly Report Template
 
+A reusable template is available here: `/templates/haag-weekly-faculty-report-template.md`
+
 The following template should be used for each weekly submission:
 
 ---
