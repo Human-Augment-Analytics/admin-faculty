@@ -20,33 +20,37 @@
 
 ## 1. Initiative Scope
 
-This initiative creates a standardized weekly faculty reporting procedure for HAAG research projects. The goal is to improve faculty visibility into project progress, blockers, major deliverables, and publication-related movement without creating a heavy administrative burden.
+This initiative proposes a standardized weekly faculty reporting procedure for HAAG research projects. The main goal is to improve faculty awareness of project progress, blockers, major deliverables, and publication-related activity without adding a significant administrative burden to the research teams.
 
-The procedure focuses specifically on the Computational Advisor preparing and submitting a lightweight weekly update to the faculty sponsor. The report summarizes key researcher activity, current project status, obstacles, and next steps. A standardized template is provided to ensure consistency across teams.
+During the semester, I observed that researcher updates were happening regularly through Slack discussions, meetings, and shared documentation, but the information was often spread across multiple places. Because of this, it was sometimes difficult to quickly communicate the most important updates to faculty in a consistent format.
 
-The scope is intentionally narrow so that the process is realistic, repeatable, and easy to maintain across future semesters.
+The procedure focuses specifically on the Computational Advisor preparing and submitting a short weekly summary to the faculty sponsor. The report includes current project progress, key researcher activity, major blockers, and upcoming goals. A common template is included to help keep reports organized and reasonably consistent across different teams.
+
+The scope was intentionally kept narrow so the process would remain realistic, repeatable, and easy for future HAAG teams to continue using.
 
 ---
 
 ## 2. Evidence of Alignment with HAAG Goals
 
-This initiative aligns with HAAG’s need for stronger communication, better project visibility, and improved coordination between researchers, Computational Advisors, managers, and faculty.
+This initiative supports HAAG’s broader goals of improving communication, project coordination, and visibility between researchers, Computational Advisors, project managers, and faculty.
 
-Evidence from the semester showed that weekly researcher updates were being created, but faculty-facing summaries were not always standardized. Research progress, blockers, and infrastructure issues were often visible in Slack or meetings, but there was no consistent weekly procedure for converting those updates into a clear faculty report.
+Over the course of the semester, weekly researcher updates were consistently being generated, but faculty-facing summaries were not always handled in the same way across teams. In many cases, important project information existed inside Slack conversations, meeting discussions, or separate documentation, but there was no simple recurring process for consolidating that information into a clear weekly faculty update.
 
-Recurring examples included dataset progress, model experimentation, GitHub coordination, storage limitations, GPU access concerns, and permissions issues in PACE ICE. These are exactly the kinds of issues faculty should be able to see early so they can provide guidance, adjust priorities, or help remove barriers.
+Examples from the semester included dataset progress, model experimentation, GitHub coordination, storage limitations, GPU access concerns, and permission-related issues in PACE ICE. These types of operational or technical blockers can directly affect research progress, so having a regular reporting process may help faculty identify issues earlier and provide support when needed.
+
+The initiative also attempts to improve continuity between semesters by creating a lightweight reporting structure that can be reused by future teams without requiring major workflow changes.
 
 ---
 
 ## 3. Procedure Generated
 
-One primary procedure was generated:
+One primary procedure was developed as part of this initiative:
 
 ### Weekly Faculty Report Procedure
 
-This procedure defines how the Computational Advisor collects weekly researcher updates, uses AI to assist with drafting, refines the output, and submits a concise report to the faculty sponsor using a standardized template.
+The procedure outlines how the Computational Advisor gathers researcher updates, optionally uses AI-generated drafting assistance, reviews and refines the report, and then submits a concise summary to the faculty sponsor using a standardized structure.
 
-The procedure is designed to fit into existing HAAG workflows, including Slack updates, weekly or biweekly meetings, shared trackers, and existing research documentation.
+The process was designed to fit into workflows that HAAG teams are already using, including Slack updates, weekly or biweekly meetings, shared trackers, and research documentation.
 
 ---
 
@@ -61,7 +65,7 @@ The procedure is designed to fit into existing HAAG workflows, including Slack u
 
 ### Purpose
 
-Provide faculty with a consistent weekly summary of project progress, blockers, deliverables, and next steps so they can stay informed and support the project effectively.
+Provide faculty with a short and consistent summary of weekly project activity so they can remain informed about research progress, blockers, deliverables, and upcoming priorities.
 
 ---
 
@@ -69,88 +73,96 @@ Provide faculty with a consistent weekly summary of project progress, blockers, 
 
 #### Step 1 — Collect Researcher Updates
 
-The Computational Advisor reviews:
+The Computational Advisor reviews information from sources such as:
 
 - Weekly researcher reports  
-- Slack updates and discussions  
+- Slack discussions and updates  
 - Meeting notes  
 - Shared project documentation  
 
-Relevant items include:
+Relevant information may include:
 
 - Completed research tasks  
 - Dataset or model progress  
-- Contributions across researchers  
-- Blockers or infrastructure issues  
-- Next-week goals  
+- Researcher contributions  
+- Technical or infrastructure blockers  
+- Goals for the following week  
 
 ---
 
 #### Step 2 — Identify Major Themes
 
-The Computational Advisor extracts the most important information for faculty visibility.
+The Computational Advisor identifies the most important updates that faculty would likely need visibility into.
 
-Priority is given to:
+Priority is generally given to:
 
 - Research progress  
 - Deliverables and outputs  
-- Publication progress  
+- Publication-related progress  
 - Technical blockers  
-- Resource or infrastructure constraints  
-- Risks to timeline or outcomes  
+- Infrastructure or resource constraints  
+- Risks that could affect timelines or outcomes  
 
 ---
 
 #### Step 3 — Generate AI Draft (Initial Report)
 
-The Computational Advisor may use an AI tool to generate a **first draft** of the weekly report.
+An AI tool may be used to help generate an initial draft of the report.
 
-- AI summarizes collected updates into structured sections  
-- Reduces time and improves consistency  
-- Serves only as a **starting point**, not the final report  
+Typical uses include:
+
+- Summarizing meeting notes or updates  
+- Organizing information into sections  
+- Reducing repetitive formatting work  
+
+The AI-generated version is intended only as a starting point and not as the final submitted report.
 
 ---
 
 #### Step 4 — Review and Refine Report
 
-The Computational Advisor reviews and edits the AI-generated draft:
+The Computational Advisor reviews and edits the draft before submission.
 
-- Ensures accuracy of technical details  
-- Removes irrelevant or redundant information  
-- Clarifies key points for faculty understanding  
-- Adjusts tone to be concise and professional  
+This review process includes:
 
-> AI-assisted summaries improve efficiency but require human validation to ensure correctness and relevance.
+- Verifying technical accuracy  
+- Removing unnecessary or repetitive information  
+- Clarifying details that may need additional context  
+- Adjusting tone and wording for readability and professionalism  
+
+> AI-assisted drafting can improve efficiency, but the final report still requires human review to ensure accuracy and relevance.
 
 ---
 
 #### Step 5 — Format Using Standard Template
 
-The final report is structured using the **HAAG Weekly Faculty Report Template**.
+The final report is organized using the HAAG Weekly Faculty Report Template.
 
-- Ensures consistency across projects  
-- Improves readability for faculty  
-- Standardizes key sections  
+The template helps:
+
+- Maintain consistency across projects  
+- Improve readability for faculty  
+- Keep important sections easy to identify  
 
 ---
 
 #### Step 6 — Submit to Faculty
 
-The finalized report is sent via:
+The completed report may be shared through:
 
 - Email  
 - Slack  
-- Shared documentation  
+- Shared documentation systems  
 
 ---
 
 #### Step 7 — Archive the Report
 
-Save the report in a shared location for:
+Reports should be stored in a shared location for:
 
-- Historical tracking  
-- Future reference  
-- Cross-semester continuity  
+- Historical reference  
+- Project continuity  
+- Cross-semester documentation  
 
 ---
 
@@ -170,7 +182,7 @@ Reporting Week: ____________________
 Status: ☐ On Track ☐ At Risk ☐ Behind  
 
 Summary:  
-Brief description of overall project state.
+Brief description of the overall project state.
 
 ---
 
